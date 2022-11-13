@@ -1,0 +1,23 @@
+body
+{
+    background-color: cornflowerblue;
+}
+#score
+{
+    font-size: 35px;
+    margin-left:20px;
+}
+#time
+{
+    font-size:35px;
+    margin-right:35px;
+    float: right;
+}
+#sketch_name
+{
+    color:black;
+}
+#show_sketch
+{
+    float: right;
+}
